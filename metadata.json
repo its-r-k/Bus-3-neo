@@ -1,0 +1,6 @@
+{
+  "name": "Budslink Controller",
+  "description": "Premium companion app for Realme Buds Neo 3 with real-time battery monitoring, noise cancellation control, and sound equalization.",
+  "requestFramePermissions": ["bluetooth"],
+  "majorCapabilities": []
+}
